@@ -25,8 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://article-preview-component-ap.netlify.app/]
 
 ## My process
 
@@ -34,8 +33,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- Sass
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Sass](https://sass-lang.com/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Author
